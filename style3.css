@@ -1,0 +1,47 @@
+.main
+{
+    width: 60%;
+    margin-left: 8%;
+    margin-top: 60px;
+    border:1px solid #ddd;;
+    height: 90%;
+}
+
+.main1
+{
+    width: 95%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.form-horizontal .control-label {
+    font-size: large;
+}
+.checkbox label, .radio label {
+    font-size: large;
+}
+.btn-primary{
+    margin-left: 27%;
+    margin-top: 6%
+}
+.error
+{
+    border-color: #a94442;
+}
+
+.as{
+    color: #a94442;
+}
+
+.not-error
+{
+    border-color: skyblue;
+}
+
+.not-label
+{
+    color:black;
+}
+.ab
+{
+    color:#a94442;
+}
